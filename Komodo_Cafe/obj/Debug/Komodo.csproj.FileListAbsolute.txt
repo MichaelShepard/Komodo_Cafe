@@ -1,0 +1,12 @@
+X:\Google Drive\What is this\Desktop\1150\1150 Proj\Challenge\Komodo_Cafe\Komodo_Cafe\obj\Debug\Komodo.csprojAssemblyReference.cache
+X:\Google Drive\What is this\Desktop\1150\1150 Proj\Challenge\Komodo_Cafe\Komodo_Cafe\obj\Debug\Komodo.csproj.CoreCompileInputs.cache
+X:\Google Drive\What is this\Desktop\1150\1150 Proj\Challenge\Komodo_Cafe\Komodo_Cafe\bin\Debug\Komodo_Cafe.exe.config
+X:\Google Drive\What is this\Desktop\1150\1150 Proj\Challenge\Komodo_Cafe\Komodo_Cafe\bin\Debug\Komodo_Cafe.exe
+X:\Google Drive\What is this\Desktop\1150\1150 Proj\Challenge\Komodo_Cafe\Komodo_Cafe\bin\Debug\Komodo_Cafe.pdb
+X:\Google Drive\What is this\Desktop\1150\1150 Proj\Challenge\Komodo_Cafe\Komodo_Cafe\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+X:\Google Drive\What is this\Desktop\1150\1150 Proj\Challenge\Komodo_Cafe\Komodo_Cafe\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+X:\Google Drive\What is this\Desktop\1150\1150 Proj\Challenge\Komodo_Cafe\Komodo_Cafe\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+X:\Google Drive\What is this\Desktop\1150\1150 Proj\Challenge\Komodo_Cafe\Komodo_Cafe\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+X:\Google Drive\What is this\Desktop\1150\1150 Proj\Challenge\Komodo_Cafe\Komodo_Cafe\obj\Debug\Komodo.csproj.CopyComplete
+X:\Google Drive\What is this\Desktop\1150\1150 Proj\Challenge\Komodo_Cafe\Komodo_Cafe\obj\Debug\Komodo_Cafe.exe
+X:\Google Drive\What is this\Desktop\1150\1150 Proj\Challenge\Komodo_Cafe\Komodo_Cafe\obj\Debug\Komodo_Cafe.pdb

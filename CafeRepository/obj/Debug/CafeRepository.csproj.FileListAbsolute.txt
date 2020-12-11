@@ -1,0 +1,6 @@
+X:\Google Drive\What is this\Desktop\1150\1150 Proj\Challenge\Komodo_Cafe\CafeRepository\bin\Debug\CafeRepository.dll
+X:\Google Drive\What is this\Desktop\1150\1150 Proj\Challenge\Komodo_Cafe\CafeRepository\bin\Debug\CafeRepository.pdb
+X:\Google Drive\What is this\Desktop\1150\1150 Proj\Challenge\Komodo_Cafe\CafeRepository\obj\Debug\CafeRepository.csprojAssemblyReference.cache
+X:\Google Drive\What is this\Desktop\1150\1150 Proj\Challenge\Komodo_Cafe\CafeRepository\obj\Debug\CafeRepository.csproj.CoreCompileInputs.cache
+X:\Google Drive\What is this\Desktop\1150\1150 Proj\Challenge\Komodo_Cafe\CafeRepository\obj\Debug\CafeRepository.dll
+X:\Google Drive\What is this\Desktop\1150\1150 Proj\Challenge\Komodo_Cafe\CafeRepository\obj\Debug\CafeRepository.pdb

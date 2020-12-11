@@ -1,0 +1,16 @@
+X:\Google Drive\What is this\Desktop\1150\1150 Proj\Challenge\Komodo_Cafe\CafeTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+X:\Google Drive\What is this\Desktop\1150\1150 Proj\Challenge\Komodo_Cafe\CafeTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+X:\Google Drive\What is this\Desktop\1150\1150 Proj\Challenge\Komodo_Cafe\CafeTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+X:\Google Drive\What is this\Desktop\1150\1150 Proj\Challenge\Komodo_Cafe\CafeTest\bin\Debug\CafeTest.dll
+X:\Google Drive\What is this\Desktop\1150\1150 Proj\Challenge\Komodo_Cafe\CafeTest\bin\Debug\CafeTest.pdb
+X:\Google Drive\What is this\Desktop\1150\1150 Proj\Challenge\Komodo_Cafe\CafeTest\bin\Debug\CafeRepository.dll
+X:\Google Drive\What is this\Desktop\1150\1150 Proj\Challenge\Komodo_Cafe\CafeTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+X:\Google Drive\What is this\Desktop\1150\1150 Proj\Challenge\Komodo_Cafe\CafeTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+X:\Google Drive\What is this\Desktop\1150\1150 Proj\Challenge\Komodo_Cafe\CafeTest\bin\Debug\CafeRepository.pdb
+X:\Google Drive\What is this\Desktop\1150\1150 Proj\Challenge\Komodo_Cafe\CafeTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+X:\Google Drive\What is this\Desktop\1150\1150 Proj\Challenge\Komodo_Cafe\CafeTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+X:\Google Drive\What is this\Desktop\1150\1150 Proj\Challenge\Komodo_Cafe\CafeTest\obj\Debug\CafeTest.csprojAssemblyReference.cache
+X:\Google Drive\What is this\Desktop\1150\1150 Proj\Challenge\Komodo_Cafe\CafeTest\obj\Debug\CafeTest.csproj.CoreCompileInputs.cache
+X:\Google Drive\What is this\Desktop\1150\1150 Proj\Challenge\Komodo_Cafe\CafeTest\obj\Debug\CafeTest.csproj.CopyComplete
+X:\Google Drive\What is this\Desktop\1150\1150 Proj\Challenge\Komodo_Cafe\CafeTest\obj\Debug\CafeTest.dll
+X:\Google Drive\What is this\Desktop\1150\1150 Proj\Challenge\Komodo_Cafe\CafeTest\obj\Debug\CafeTest.pdb
